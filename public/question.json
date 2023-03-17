@@ -1,0 +1,875 @@
+
+[
+    
+    {
+        "name":"Math",
+        "ques":
+        [
+            {
+                "id": 1,
+                "question": "The value of Pi?",
+                "answers": [
+                  {
+                    "text": "2.1416",
+                    "correct": false
+                  },
+                  {
+                    "text": "3.1416",
+                    "correct": true
+                  },
+                  {
+                    "text": "4.1416",
+                    "correct": false
+                  },
+                  {
+                    "text":"5.1416",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 2,
+                "question": "Value of cos 360°?",
+                "answers": [
+                  {
+                    "text": "0.67",
+                    "correct": true
+                  },
+                  {
+                    "text": "0.88",
+                    "correct": false
+                  },
+                  {
+                    "text": "0.5",
+                    "correct": false
+                  },
+                  {
+                    "text":"1",
+                    "correct": true
+                  }
+                ]
+              },
+            {
+                "id": 3,
+                "question": "What is the average of the first 50 natural numbers?",
+                "answers": [
+                  {
+                    "text": "25.5",
+                    "correct": true
+                  },
+                  {
+                    "text": "26.5",
+                    "correct": false
+                  },
+                  {
+                    "text": "27.5",
+                    "correct": false
+                  },
+                  {
+                    "text":"28.5",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 4,
+                "question": "Who is the Father of Mathematics?",
+                "answers": [
+                  {
+                    "text": "Pythagoras",
+                    "correct": false
+                  },
+                  {
+                    "text": "Euclid",
+                    "correct": false
+                  },
+                  {
+                    "text": "Galilio",
+                    "correct": false
+                  },
+                  {
+                    "text":"Archimedes",
+                    "correct": true
+                  }
+                ]
+              },
+            {
+                "id": 5,
+                "question": "Who discovered Zero (0)?",
+                "answers": [
+                  {
+                    "text": "Bhaskara",
+                    "correct": false
+                  },
+                  {
+                    "text": "Aryabhatta,",
+                    "correct": true
+                  },
+                  {
+                    "text": "Archimedes",
+                    "correct": false
+                  },
+                  {
+                    "text":"Pythagoras",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 6,
+                "question": "When is Pi Day celebrated around the world?",
+                "answers": [
+                  {
+                    "text": "March 14",
+                    "correct": true
+                  },
+                  {
+                    "text": "March 20",
+                    "correct": false
+                  },
+                  {
+                    "text": "February 14",
+                    "correct": false
+                  },
+                  {
+                    "text":"February 20",
+                    "correct": false
+                  }
+                ]
+              }
+            
+            
+            
+            
+            
+            ]
+              
+        
+    },
+    {
+        "name":"Sports",
+        "ques":
+        [
+            {
+                "id": 1,
+                "question": "What is the full form of IPL?",
+                "answers": [
+                  {
+                    "text": "Indian Premier League",
+                    "correct": true
+                  },
+                  {
+                    "text": "Indo-Pakistan League",
+                    "correct": false
+                  },
+                  {
+                    "text": "International Premier League",
+                    "correct": false
+                  },
+                  {
+                    "text":"Indian Players League",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 2,
+                "question": "Sports Day is celebrated on?",
+                "answers": [
+                  {
+                    "text": "5 March",
+                    "correct": false
+                  },
+                  {
+                    "text": "10 July",
+                    "correct": false
+                  },
+                  {
+                    "text": "10 Dec",
+                    "correct": false
+                  },
+                  {
+                    "text":"29 August",
+                    "correct": true
+                  }
+                ]
+              },
+            {
+                "id": 3,
+                "question": "Which among the following is the National Sports of USA?",
+                "answers": [
+                  {
+                    "text": "Bowling",
+                    "correct":false
+                  },
+                  {
+                    "text": "Baseball",
+                    "correct": true
+                  },
+                  {
+                    "text": "Table Tennis",
+                    "correct": false
+                  },
+                  {
+                    "text":"Rugby",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 4,
+                "question": "When was the first Winter Olympics held?",
+                "answers": [
+                  {
+                    "text": " 1899",
+                    "correct": false
+                  },
+                  {
+                    "text": "1905",
+                    "correct": false
+                  },
+                  {
+                    "text": "1924",
+                    "correct": true
+                  },
+                  {
+                    "text":"1915",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 5,
+                "question": "When was the first World Cup Football held?",
+                "answers": [
+                  {
+                    "text": "1904",
+                    "correct": false
+                  },
+                  {
+                    "text": "1906",
+                    "correct": false
+                  },
+                  {
+                    "text": "1912",
+                    "correct": false
+                  },
+                  {
+                    "text":"1930",
+                    "correct": true
+                  }
+                ]
+              },
+            {
+                "id": 6,
+                "question": "What does the globe in the ICC World Cup Trophy symbolise?",
+                "answers": [
+                  {
+                    "text": "World",
+                    "correct": false
+                  },
+                  {
+                    "text": "All participating nations",
+                    "correct": false
+                  },
+                  {
+                    "text": "Cricket Ball",
+                    "correct": true
+                  },
+                  {
+                    "text":"Unity",
+                    "correct": false
+                  }
+                ]
+              }
+            
+            
+            
+            
+            
+            ]
+              
+        
+    },
+    {
+        "name":"Music",
+        "ques":
+        [
+            {
+                "id": 1,
+                "question": "Maroon 5 released their solo album in 2002 titled Songs About…who?",
+                "answers": [
+                  {
+                    "text": "Jane",
+                    "correct": true
+                  },
+                  {
+                    "text": "Selena",
+                    "correct": false
+                  },
+                  {
+                    "text": "Justin",
+                    "correct": false
+                  },
+                  {
+                    "text":"Lio",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 2,
+                "question": "3 of the top 15 best-selling albums of the 00s belong to which 4-piece band?",
+                "answers": [
+                  {
+                    "text": "One Direction",
+                    "correct": false
+                  },
+                  {
+                    "text": "Coldplay",
+                    "correct": true
+                  },
+                  {
+                    "text": "Cavaliers",
+                    "correct": false
+                  },
+                  {
+                    "text":"Voltires",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 3,
+                "question": "Who is known as the “Queen of K-pop",
+                "answers": [
+                  {
+                    "text": "Lee Hyori",
+                    "correct": true
+                  },
+                  {
+                    "text": "Kwon Bo-ah",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lisa",
+                    "correct": false
+                  },
+                  {
+                    "text":"Rose",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 4,
+                "question": "Who sang “All I want for Christmas is you",
+                "answers": [
+                  {
+                    "text": "Mariah Carey",
+                    "correct": true
+                  },
+                  {
+                    "text": "Justin Bieber",
+                    "correct": true
+                  },
+                  {
+                    "text": "Selena",
+                    "correct": false
+                  },
+                  {
+                    "text":"Lisa",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 5,
+                "question": "Which song won the best original song award in Oscar 2023",
+                "answers": [
+                  {
+                    "text": "Natu Natu",
+                    "correct": true
+                  },
+                  {
+                    "text": "Saami",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lift Me Up",
+                    "correct": false
+                  },
+                  {
+                    "text":"Hold My Hand",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 6,
+                "question": "Which singer was part of the Jackson 5 as a child?",
+                "answers": [
+                  {
+                    "text": "Michael Jackson",
+                    "correct": false
+                  },
+                  {
+                    "text": "Jackson Browne",
+                    "correct": false
+                  },
+                  {
+                    "text": "Jermaine Jackson ",
+                    "correct": true
+                  },
+                  {
+                    "text":"Randy Jackson ",
+                    "correct": false
+                  }
+                ]
+              }
+            
+            
+            
+            
+            
+            ]
+              
+        
+    },
+    {
+        "name":"Science",
+        "ques":
+        [
+            {
+                "id": 1,
+                "question": "The study of flower is known as:",
+                "answers": [
+                  {
+                    "text": "Phrenology",
+                    "correct": false
+                  },
+                  {
+                    "text": "Anthology",
+                    "correct": true
+                  },
+                  {
+                    "text": "Agrostology",
+                    "correct": false
+                  },
+                  {
+                    "text":"Palynology",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 2,
+                "question": "The PH value of human blood is:",
+                "answers": [
+                  {
+                    "text": "6.6",
+                    "correct": false
+                  },
+                  {
+                    "text": "7.2",
+                    "correct": false
+                  },
+                  {
+                    "text": "7.4",
+                    "correct": true
+                  },
+                  {
+                    "text":"7.8",
+                    "correct": true
+                  }
+                ]
+              },
+            {
+                "id": 3,
+                "question": "Hemoglobin is a:",
+                "answers": [
+                  {
+                    "text": "Protein",
+                    "correct": true
+                  },
+                  {
+                    "text": "Carbohydrate",
+                    "correct": false
+                  },
+                  {
+                    "text": "Fat",
+                    "correct": false
+                  },
+                  {
+                    "text":"Vitamins",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 4,
+                "question": "The escape velocity of the Earth is:",
+                "answers": [
+                  {
+                    "text": "7.0 km/sec",
+                    "correct": false
+                  },
+                  {
+                    "text": "11.2 km/sec",
+                    "correct": true
+                  },
+                  {
+                    "text": "15.0 km/sec",
+                    "correct": false
+                  },
+                  {
+                    "text":" 21.1 km/sec",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 5,
+                "question": "The weight of our body is mostly made of:",
+                "answers": [
+                  {
+                    "text": "From Bones",
+                    "correct": false
+                  },
+                  {
+                    "text": "Parts of Body",
+                    "correct": false
+                  },
+                  {
+                    "text": "From Water",
+                    "correct": true
+                  },
+                  {
+                    "text":"Parts of Skin",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 6,
+                "question": "Which city launched the AI-based ‘Intelligent Solutions for Road Safety through Technology and Engineering’ (iRASTE) project?",
+                "answers": [
+                  {
+                    "text": "Chennai",
+                    "correct": false
+                  },
+                  {
+                    "text": "New Delhi",
+                    "correct": false
+                  },
+                  {
+                    "text": "Nagpur",
+                    "correct": true
+                  },
+                  {
+                    "text":"Indore",
+                    "correct": false
+                  }
+                ]
+              }
+            
+            
+            
+            
+            
+            ]
+              
+        
+    },
+    {
+        "name":"Arts",
+        "ques":
+        [
+            {
+                "id": 1,
+                "question": "In which museum can you find the Mona Lisa?",
+                "answers": [
+                  {
+                    "text": "Grévin Museum",
+                    "correct": false
+                  },
+                  {
+                    "text": "Musée d'Orsay",
+                    "correct": false
+                  },
+                  {
+                    "text": "Museo de la Ilusión de París",
+                    "correct": false
+                  },
+                  {
+                    "text":"Louvre Museum",
+                    "correct": true
+                  }
+                ]
+              },
+            {
+                "id": 2,
+                "question": "Who painted ‘The Starry Night’?",
+                "answers": [
+                  {
+                    "text": "Edgar Degas",
+                    "correct": false
+                  },
+                  {
+                    "text": "Vincent van Gogh",
+                    "correct": true
+                  },
+                  {
+                    "text": "Georges Seurat",
+                    "correct": false
+                  },
+                  {
+                    "text":"Henri Matisse",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 3,
+                "question": "In which city can you find the British Museum?",
+                "answers": [
+                  {
+                    "text": "London",
+                    "correct": true
+                  },
+                  {
+                    "text": "Liverpool",
+                    "correct": false
+                  },
+                  {
+                    "text": "Leicester",
+                    "correct": false
+                  },
+                  {
+                    "text":"Birmingham",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 4,
+                "question": "In which country can you find the Terracota warriors?",
+                "answers": [
+                  {
+                    "text": "Nepal",
+                    "correct": false
+                  },
+                  {
+                    "text": "China",
+                    "correct": true
+                  },
+                  {
+                    "text": "Maldives",
+                    "correct": false
+                  },
+                  {
+                    "text":"India",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 5,
+                "question": "Which flower is Claude Monet particularly known for?",
+                "answers": [
+                  {
+                    "text": "Lotus",
+                    "correct": false
+                  },
+                  {
+                    "text": "Water Lily",
+                    "correct": true
+                  },
+                  {
+                    "text": "Rose",
+                    "correct": false
+                  },
+                  {
+                    "text":"Dalia",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 6,
+                "question": "In which American city is the Getty Center?",
+                "answers": [
+                  {
+                    "text": "Los Angeles",
+                    "correct": true
+                  },
+                  {
+                    "text": "New Yok",
+                    "correct": false
+                  },
+                  {
+                    "text": "Chicago",
+                    "correct": false
+                  },
+                  {
+                    "text":"Boston",
+                    "correct": false
+                  }
+                ]
+              }
+            
+            
+            
+            
+            
+            ]
+              
+        
+    },
+    {
+        "name":"Travel",
+        "ques":
+        [
+            {
+                "id": 1,
+                "question": "Which European capital was built on 14 islands?",
+                "answers": [
+                  {
+                    "text": "Zurich",
+                    "correct": false
+                  },
+                  {
+                    "text": "Copenhegen",
+                    "correct": false
+                  },
+                  {
+                    "text": "Stockholm",
+                    "correct": true
+                  },
+                  {
+                    "text":"Amsterdam",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 2,
+                "question": "What is Europe’s most mountainous country?",
+                "answers": [
+                  {
+                    "text": "Spain",
+                    "correct": false
+                  },
+                  {
+                    "text": "Finland",
+                    "correct": false
+                  },
+                  {
+                    "text": "Sweden",
+                    "correct": false
+                  },
+                  {
+                    "text":"Switzerland",
+                    "correct": true
+                  }
+                ]
+              },
+            {
+                "id": 3,
+                "question": "Which lake is called the ‘jewel of the Italian lakes’?",
+                "answers": [
+                  {
+                    "text": "lake grada",
+                    "correct": false
+                  },
+                  {
+                    "text": "Lake Como",
+                    "correct": true
+                  },
+                  {
+                    "text": "Lake Maggiorie",
+                    "correct": false
+                  },
+                  {
+                    "text":"Lake Orta",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 4,
+                "question": "Which country has the longest coastline in the world?",
+                "answers": [
+                  {
+                    "text": "USA",
+                    "correct": false
+                  },
+                  {
+                    "text": "Australia",
+                    "correct": false
+                  },
+                  {
+                    "text": "England",
+                    "correct": false
+                  },
+                  {
+                    "text":"Canada",
+                    "correct": true
+                  }
+                ]
+              },
+            {
+                "id": 5,
+                "question": "What is the only country in the world to be ruled by an Emperor?",
+                "answers": [
+                  {
+                    "text": "Japan",
+                    "correct": true
+                  },
+                  {
+                    "text": "Nepal",
+                    "correct": false
+                  },
+                  {
+                    "text": "Maldives",
+                    "correct": false
+                  },
+                  {
+                    "text":"Thailand",
+                    "correct": false
+                  }
+                ]
+              },
+            {
+                "id": 6,
+                "question": "Which capital city has the most Michelin stars in the world___",
+                "answers": [
+                  {
+                    "text": "London",
+                    "correct": false
+                  },
+                  {
+                    "text": "Paris",
+                    "correct": false
+                  },
+                  {
+                    "text": "Tokyo",
+                    "correct": true
+                  },
+                  {
+                    "text":"Katmundu",
+                    "correct": false
+                  }
+                ]
+              }
+            
+            
+            
+            
+            
+            ]
+              
+        
+    }
+    
+  ]
